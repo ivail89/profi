@@ -58,7 +58,7 @@ http://localhost/profi/laravel/public/api/categories
 --- Category edited
 
 Товары:
-http://localhost/profi/laravel/public/api/product
+http://localhost/profi/laravel/public/api/products
 - Просмотр всех товаров
 -- Параметр type = show
 -- Ответ в формате JSON ID, имя товара, список Категорий
